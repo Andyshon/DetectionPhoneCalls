@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetectionPhoneCalls</string>
+    <string name="title">The application can recognize calls be careful!</string>
+</resources>
